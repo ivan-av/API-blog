@@ -1,6 +1,6 @@
 # API - Blog
 
-### Iván Daniel Avila Campos
+### Iván D. Avila Campos
 
 ---
 ## Rutas
